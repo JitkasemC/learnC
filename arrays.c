@@ -21,6 +21,8 @@ printf("The 7th number in the array is %d", numbers[6]);
 // Arrays can only have one type of variable, because they are implemented as a sequence of values in the computer's memory. 
 // Because of that, accessing a specific array cell is very efficient.
 
+int nums[5] = {2, 6, 1, 2, 3};
+
 
 // * Exercise
 
